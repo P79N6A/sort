@@ -7,6 +7,7 @@ $baseDir = dirname($vendorDir);
 
 return array(
     'Email' => $baseDir . '/src/Email.php',
+    'MergeSort' => $baseDir . '/src/MergeSort.php',
     'PHPUnit\\Exception' => $vendorDir . '/phpunit/phpunit/src/Exception.php',
     'PHPUnit\\Framework\\Assert' => $vendorDir . '/phpunit/phpunit/src/Framework/Assert.php',
     'PHPUnit\\Framework\\AssertionFailedError' => $vendorDir . '/phpunit/phpunit/src/Framework/AssertionFailedError.php',
